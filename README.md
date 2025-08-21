@@ -1,10 +1,10 @@
 
 <a href="https://amberkrodriguez.github.io/Portfolio-/">Main Page</a> 
 
-<h1>Amber Rodriguez</h1> MURFREESBORO, TN • AMBER.K.RODRIGUEZ@OUTLOOK.COM • 8085946719
+<h1>Amber Rodriguez</h1>
+MURFREESBORO, TN • AMBER.K.RODRIGUEZ@OUTLOOK.COM • 8085946719
 
 <h2>PROFESSIONAL SUMMARY</h2>
-
 Progress-focused problem solver with extensive experience in the administrative industry. Known for initiative and dependability. I have proven the ability to managing confidential projects with the highest level of discretion and a track record of effectiveness and collaboration, complemented by strong process improvement skills.
 
 
@@ -109,4 +109,7 @@ Languages: Java, JavaScript, PHP, HTML, CSS, C# Projects:
 
 <h2>MILITARY SERVICE</h2>
 <h4>United States Army, United States, Sergeant, August 2014 – March 2023</h4>
+
+
+
 
