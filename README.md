@@ -1,4 +1,3 @@
-
 <a href="https://amberkrodriguez.github.io/Portfolio-/">Main Page</a> 
 
 <h1>Amber Rodriguez</h1>
