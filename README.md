@@ -54,14 +54,14 @@ March 2022 - January 2023
   vendor contracts, securing cost effective deals and optimizing purchase orders to achieve budgetary savings.</li>
 </ul>
 
- <h3>U.S. Army | Honolulu, HI</h3>
- <h4>Human Resources Manager</h4>
+<h3>U.S. Army | Honolulu, HI</h3>
+<h4>Human Resources Manager</h4>
   March 2020 - January 2022 
  <ul>   
-<li>Guided HR policy compliance and operational excellence, strengthened team performance and satisfaction.</li>
-<li>Resolved customer issues through daily report analysis, greatly improving service performance.</li>
-<li>Implemented motivational strategies in high-pressure situations, maintaining team morale and productivity.</li>
-<li>Led HR improvement initiatives, achieving significant gains in adequacy and effectiveness.</li>
+  <li>Guided HR policy compliance and operational excellence, strengthened team performance and satisfaction.</li>
+  <li>Resolved customer issues through daily report analysis, greatly improving service performance.</li>
+  <li>Implemented motivational strategies in high-pressure situations, maintaining team morale and productivity.</li>
+  <li>Led HR improvement initiatives, achieving significant gains in adequacy and effectiveness.</li>
  </ul>
  
 <h3>U.S. Army | Honolulu, HI </h3>
@@ -73,23 +73,13 @@ January 2019 - March 2020
   <li>Conducted thorough research and compiled comprehensive data, delivering timely and relevant information to support executive decision-making processes.
  </ul>
  
- <h3>U.S. Army | Honolulu, HI </h3>
-<h4>Executive Assistant</h4>
-January 2019 - March 2020 
-<ul>
-  <li>Skillfully managed executive calendars, including scheduling meetings, appointments, and travel arrangements, certifying optimal time management.
-  <li>Executed confidential projects with the highest level of discretion, including the development of critical presentations and reports, facilitating precision and a polished, professional presentation.
-  <li>Conducted thorough research and compiled comprehensive data, delivering timely and relevant information to support executive decision-making processes.
- </ul>
-
-<p>
- <h3>U.S. Army | Honolulu, HI</h3> 
+<h3>U.S. Army | Honolulu, HI</h3> 
 <h4>Operations Coordinator</h4>
 March 2018 - January 2019
 <ul>
   <li>Reviewed Soldier in- and out-processing and annual audits, assuring compliance with military standards. • Scheduled and processed annual evaluations, guaranteeing timely performance reviews for all personnel. • Analyzed office procedures and implemented strategies, elevating administrative support.
   <li>Orchestrated logistics for high-priority projects, boosting operational success and reducing downtime.
- </ul>
+</ul>
 
 <h3>U.S. Army | Grafenwoehr, Germany</h3>
 <h4>Network Support Specialist</h4>
