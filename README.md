@@ -1,12 +1,11 @@
-<body> 
+
 <a href="https://amberkrodriguez.github.io/Portfolio-/">Main Page</a> 
-<br>
-<h1>Amber Rodriguez</h1>
-<h2>Results-Driven Administrative Professional | Future Software Developer</h2>
+
+<h1>Amber Rodriguez</h1> MURFREESBORO, 37128 • AMBER.K.RODRIGUEZ@OUTLOOK.COM • 8085946719
 
 <h2>PROFESSIONAL SUMMARY</h2>
-<p>
-Progress-focused problem solver with extensive experience in the administrative industry. Known for initiative and dependability. I have proven the ability to managing confidential projects with the highest level of discretion and a track record of effectiveness and collaboration, complemented by strong process improvement skills.</p>
+
+Progress-focused problem solver with extensive experience in the administrative industry. Known for initiative and dependability. I have proven the ability to managing confidential projects with the highest level of discretion and a track record of effectiveness and collaboration, complemented by strong process improvement skills.
 
 
 <h2>SKILLS</h2>
@@ -22,7 +21,7 @@ Progress-focused problem solver with extensive experience in the administrative 
 
 <h3>Community Health Systems, CHS | Franklin, TN</h3>
 <h4>Administrative Assistant</h4>
-September 2024 – Current<br>
+September 2024 – Current
 <ul>
   <li>Developed automated analytics reports for Inpatient/Outpatient market share data, Service Location Listing and
   Financial Overview Reports utilizing advanced Excel formulas.</li>
@@ -64,7 +63,7 @@ March 2022 - January 2023
   <li>Led HR improvement initiatives, achieving significant gains in adequacy and effectiveness.</li>
  </ul>
  
-<h3>U.S. Army | Honolulu, HI </h3>
+<h3>U.S. Army | Honolulu, HI</h3>
 <h4>Executive Assistant</h4>
 January 2019 - March 2020 
 <ul>
@@ -91,7 +90,7 @@ December 2014 - March 2018
 </ul>
 
 
-<h2>E D U C AT I O N</h2>
+<h2>EDUCATION</h2>
 
 <h3>Bachelor of Science - Applied Technology</h3>
 <h4>University of Maryland Global Campus, Hyattsville, MD - May 2026</h4>
@@ -110,8 +109,4 @@ Languages: Java, JavaScript, PHP, HTML, CSS, C# Projects:
 
 <h2>MILITARY SERVICE</h2>
 <h4>United States Army, United States, Sergeant, August 2014 – March 2023</h4>
-</p> 
 
-
-
-</body>
