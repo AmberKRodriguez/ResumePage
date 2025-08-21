@@ -1,5 +1,5 @@
 <body> 
-<a href="https://github.com/AmberKRodriguez/Portfolio-">Main Page</a> 
+<a href="https://amberkrodriguez.github.io/Portfolio-/">Main Page</a> 
 <br>
 <h1>Amber Rodriguez</h1>
 <h2>Results-Driven Administrative Professional | Future Software Developer</h2>
