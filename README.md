@@ -1,7 +1,7 @@
 
 <a href="https://amberkrodriguez.github.io/Portfolio-/">Main Page</a> 
 
-<h1>Amber Rodriguez</h1> MURFREESBORO, 37128 • AMBER.K.RODRIGUEZ@OUTLOOK.COM • 8085946719
+<h1>Amber Rodriguez</h1> MURFREESBORO, TN • AMBER.K.RODRIGUEZ@OUTLOOK.COM • 8085946719
 
 <h2>PROFESSIONAL SUMMARY</h2>
 
