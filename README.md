@@ -35,7 +35,7 @@ April 2023 - July 2024
 <ul>
   <li>Oversaw and processed vendor agreements, resulting in 30% faster turnaround time for business and medical staff.</li>
   <li>Elevated office functionality through strategic system implementations and proactive community engagement initiatives.</li>
-  <li>Maintained a secure and welcoming workplace by strictly adhering to security protocols and health regulations, ensuring the safety and well-being of all employees.</li>
+  <li>Maintained a secure and welcoming workplace by strictly adhering to security protocols and health regulations, ensuring the safety and well-being of   all employees.</li>
   <li>Oversaw office maintenance by coordinating with service providers for timely repairs and upkeep, thereby creating a more efficient and productive work environment.</li>
   <li>Tracked expenditures and identified cost-saving opportunities, optimizing the office budget.</li>
   <li>Developed comprehensive spreadsheets by importing raw data, applying advanced formulas, and conducting in-
@@ -68,7 +68,7 @@ January 2019 - March 2020
 <ul>
   <li>Skillfully managed executive calendars, including scheduling meetings, appointments, and travel arrangements, certifying optimal time management.</li>
   <li>Executed confidential projects with the highest level of discretion, including the development of critical presentations and reports, facilitating precision and a polished, professional presentation.</li>
-  <li>Conducted thorough research and compiled comprehensive data, delivering timely and relevant information to support executive decision-making processes.</li>
+  <li>Conducted thorough research and compiled comprehensive data, delivering timely and relevant information to support executive decision-making processes.  </li>
 </ul>
  
 <h3>U.S. Army | Honolulu, HI</h3> 
