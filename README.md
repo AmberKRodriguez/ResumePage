@@ -48,8 +48,8 @@ March 2022 - January 2023
 <ul>
   <li>Reducing complexity in executive operations by meticulously managing calendars and optimizing meeting logistics, guaranteed seamless coordination and time efficiency.</li>
   <li>Enriched communication channels to improve project coordination and boost team productivity.</li>
-  <li>Refined onboarding procedures, accelerating new hire integration and magnifying security measures. Negotiated
-  vendor contracts, securing cost effective deals and optimizing purchase orders to achieve budgetary savings.</li>
+  <li>Refined onboarding procedures, accelerating new hire integration and magnifying security measures.</li>
+  <li>Negotiated vendor contracts, securing cost effective deals and optimizing purchase orders to achieve budgetary savings.</li>
 </ul>
 
 <h3>U.S. Army | Honolulu, HI</h3>
@@ -66,10 +66,10 @@ March 2022 - January 2023
 <h4>Executive Assistant</h4>
 January 2019 - March 2020 
 <ul>
-  <li>Skillfully managed executive calendars, including scheduling meetings, appointments, and travel arrangements, certifying optimal time management.
-  <li>Executed confidential projects with the highest level of discretion, including the development of critical presentations and reports, facilitating precision and a polished, professional presentation.
-  <li>Conducted thorough research and compiled comprehensive data, delivering timely and relevant information to support executive decision-making processes.
- </ul>
+  <li>Skillfully managed executive calendars, including scheduling meetings, appointments, and travel arrangements, certifying optimal time management.</li>
+  <li>Executed confidential projects with the highest level of discretion, including the development of critical presentations and reports, facilitating precision and a polished, professional presentation.</li>
+  <li>Conducted thorough research and compiled comprehensive data, delivering timely and relevant information to support executive decision-making processes.</li>
+</ul>
  
 <h3>U.S. Army | Honolulu, HI</h3> 
 <h4>Operations Coordinator</h4>
@@ -85,7 +85,8 @@ March 2018 - January 2019
 <h4>Network Support Specialist</h4>
 December 2014 - March 2018
 <ul>
-  <li>Monitored network performance and conducted detailed statistical analyses to maintain peak efficiency and reliability. Installed, operated, and   maintained 24-hour communications package, ensuring continuous and secure connectivity.</li>
+  <li>Monitored network performance and conducted detailed statistical analyses to maintain peak efficiency and reliability.</li>
+  <li>Installed, operated, and   maintained 24-hour communications package, ensuring continuous and secure connectivity.</li>
   <li>Facilitated critical communication needs for senior staff, ensuring seamless connectivity and operational efficiency.</li>
   <li>Conducted thorough maintenance of satellite equipment, significantly reducing downtime and maintaining uninterrupted communication services.</li>
 </ul>
