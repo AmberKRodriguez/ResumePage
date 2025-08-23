@@ -75,17 +75,19 @@ January 2019 - March 2020
 <h4>Operations Coordinator</h4>
 March 2018 - January 2019
 <ul>
-  <li>Reviewed Soldier in- and out-processing and annual audits, assuring compliance with military standards. • Scheduled and processed annual evaluations, guaranteeing timely performance reviews for all personnel. • Analyzed office procedures and implemented strategies, elevating administrative support.
-  <li>Orchestrated logistics for high-priority projects, boosting operational success and reducing downtime.
+  <li>Reviewed Soldier in- and out-processing and annual audits, assuring compliance with military standards.</li> 
+  <li>Scheduled and processed annual evaluations, guaranteeing timely performance reviews for all personnel.</li>
+  <li>Analyzed office procedures and implemented strategies, elevating administrative support.</li>
+  <li>Orchestrated logistics for high-priority projects, boosting operational success and reducing downtime.</li>
 </ul>
 
 <h3>U.S. Army | Grafenwoehr, Germany</h3>
 <h4>Network Support Specialist</h4>
 December 2014 - March 2018
 <ul>
-  <li>Monitored network performance and conducted detailed statistical analyses to maintain peak efficiency and reliability. Installed, operated, and    maintained 24-hour communications package, ensuring continuous and secure connectivity.
-  <li>Facilitated critical communication needs for senior staff, ensuring seamless connectivity and operational efficiency.
-  <li>Conducted thorough maintenance of satellite equipment, significantly reducing downtime and maintaining uninterrupted communication services.
+  <li>Monitored network performance and conducted detailed statistical analyses to maintain peak efficiency and reliability. Installed, operated, and   maintained 24-hour communications package, ensuring continuous and secure connectivity.</li>
+  <li>Facilitated critical communication needs for senior staff, ensuring seamless connectivity and operational efficiency.</li>
+  <li>Conducted thorough maintenance of satellite equipment, significantly reducing downtime and maintaining uninterrupted communication services.</li>
 </ul>
 
 
