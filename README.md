@@ -102,7 +102,7 @@ Languages: Java, JavaScript, PHP, HTML, CSS, C# Projects:
 <ul>
   <li>Design and develop effective web applications using core technologies of PHP, MySQL, JavaScript, CSS and HTML5.</li>
   <li>Design, Create, and implement object-oriented programs, graphical user interfaces including user- interface controls, event handlers and animations with Java</li>
-  <li>Develop, test, and deploy a 3D game with C#, using industry-standard methods, tools, and techniques. Associate of Arts February 2025</li>
+  <li>Develop, test, and deploy a 3D game with C#, using industry-standard methods, tools, and techniques.</li>
  </ul>
  
 <h3>Associate of Arts</h3>
