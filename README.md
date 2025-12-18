@@ -13,7 +13,7 @@ Progress-focused problem solver with extensive experience in the administrative 
     <li>Testing and debugging</li>
     <li>Database Managements Systems</li>
     <li>Continuous improvement</li>
-    <li>Introduction to Programming(Java)</li>
+    <li>Intermediate Programming(Java)</li>
   </ul>
 
 <h2>WORK EXPERIENCE</h2>
