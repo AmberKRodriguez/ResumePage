@@ -4,16 +4,16 @@
 MURFREESBORO, TN • AMBER.K.RODRIGUEZ@OUTLOOK.COM • 8085946719
 
 <h2>PROFESSIONAL SUMMARY</h2>
-Progress-focused problem solver with extensive experience in the administrative industry. Known for initiative and dependability. I have proven the ability to managing confidential projects with the highest level of discretion and a track record of effectiveness and collaboration, complemented by strong process improvement skills.
+Progress-focused problem solver with extensive experience in the administrative industry known for initiative and dependability. I have proven the ability to managing confidential projects with the highest level of discretion and a track record of effectiveness and collaboration, complemented by strong process improvement skills.
 
 
 <h2>SKILLS</h2>
   <ul>
-    <li>Microsoft Excel (advanced functions, pivot tables, data analysis)</li>
-    <li>Testing and debugging</li>
-    <li>Database Managements Systems</li>
-    <li>Continuous improvement</li>
-    <li>Intermediate Programming(Java)</li>
+    <li>Data structure implementation</li>
+    <li>Jr.- level proficiency in programming languages</li>
+    <li>Excellent problem-solving skills and attention to detail</li>
+    <li>Object-oriented design principles</li>
+    <li>Strong commitment to continuous learning and professional development</li>
   </ul>
 
 <h2>WORK EXPERIENCE</h2>
@@ -106,7 +106,7 @@ Languages: Java, JavaScript, PHP, HTML, CSS, C# Projects:
  </ul>
  
 <h3>Associate of Arts</h3>
-<h4>University of Maryland Global Campus, Hyattsville, MD - February 2025</h4>
+<h4>University of Maryland Global Campus, Hyattsville, MD - May 2025</h4>
 
 
 <h2>MILITARY SERVICE</h2>
