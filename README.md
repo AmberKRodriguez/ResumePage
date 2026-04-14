@@ -4,7 +4,9 @@
 MURFREESBORO, TN • AMBER.K.RODRIGUEZ@OUTLOOK.COM • 8085946719
 
 <h2>PROFESSIONAL SUMMARY</h2>
-Progress-focused problem solver with extensive experience in the administrative industry known for initiative and dependability. I have proven the ability to managing confidential projects with the highest level of discretion and a track record of effectiveness and collaboration, complemented by strong process improvement skills.
+
+<p>Junior developer with experience in creating and optimizing web applications. Skilled in JavaScript, HTML, CSS, and database management. Demonstrates strong analytical, communication, and teamwork skills, with proven ability to quickly adapt to new environments. Eager to contribute to team success and further develop professional skills.<p>
+
 
 
 <h2>SKILLS</h2>
@@ -100,9 +102,9 @@ December 2014 - March 2018
 <h4>Technical Skills</h4>
 Languages: Java, JavaScript, PHP, HTML, CSS, C# Projects:
 <ul>
-  <li>Design and develop effective web applications using core technologies of PHP, MySQL, JavaScript, CSS and HTML5.</li>
-  <li>Design, Create, and implement object-oriented programs, graphical user interfaces including user- interface controls, event handlers and animations with Java</li>
-  <li>Develop, test, and deploy a 3D game with C#, using industry-standard methods, tools, and techniques.</li>
+  <li>Designed and developed effective web applications using core technologies of PHP, MySQL, JavaScript, CSS and HTML5.</li>
+  <li>Designed, Create, and implemented object-oriented programs, graphical user interfaces including user- interface controls, event handlers and animations with Java</li>
+  <li>Developed, test, and deployed a 3D game with C#, using industry-standard methods, tools, and techniques.</li>
  </ul>
  
 <h3>Associate of Arts</h3>
@@ -110,7 +112,7 @@ Languages: Java, JavaScript, PHP, HTML, CSS, C# Projects:
 
 
 <h2>MILITARY SERVICE</h2>
-<h4>United States Army, United States, Sergeant, August 2014 – March 2023</h4>
+<h4>United States Army, United States, Sergeant, August 2014 – March 2021</h4>
 
 
 
